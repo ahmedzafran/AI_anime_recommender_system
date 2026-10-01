@@ -1,0 +1,4 @@
+.env
+ai_rec/
+*.egg-info/
+__pycache__/
